@@ -2,4 +2,6 @@
 simple project
 
 Git example from:
-https://examples.javacodegeeks.com/enterprise-java/testng/testng-maven-project-example/
+ihttps://examples.javacodegeeks.com/enterprise-java/testng/testng-maven-project-example/
+
+Note: this is only for demo purposes
